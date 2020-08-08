@@ -2,6 +2,7 @@ package chap02;
 
 public class Sampne02 {
 	public static void main(String[] args) {
+		
 		char J = 74;
 		char a = 97;
 		char v = 118;
