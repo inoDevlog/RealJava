@@ -6,6 +6,9 @@ public class Sample04 {
 
 		String fruit = "Apple";
 		System.out.println(fruit.toUpperCase());
+		
+		String brand = "APPLE";
+		System.out.println(brand.toLowerCase());
 	}
 
 }
