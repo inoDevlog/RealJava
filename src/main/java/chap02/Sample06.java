@@ -16,6 +16,7 @@ public class Sample06 {
 		int d = -32769;
 		b = (short) d;
 		System.out.println(b);
+		System.out.println(d);
 	}
 
 }
