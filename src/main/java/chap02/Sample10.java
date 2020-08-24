@@ -11,6 +11,12 @@ public class Sample10 {
 		String b2 = String.valueOf(b1);
 		String b3 = "" + b1;
 
+		System.out.println(a1);
+		System.out.println(a2);
+		System.out.println(b1);
+		System.out.println(b2);
+		System.out.println(b3);
+
 	}
 
 }
