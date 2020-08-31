@@ -6,8 +6,7 @@ public class Sample15 {
 		final float PI1;
 		PI1 = 3.14f;
 
-		final var PI2;
-		final var PI3 = 3.14f;
+		final float PI3 = 3.14f;
 	}
 
 }
