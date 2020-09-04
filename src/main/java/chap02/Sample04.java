@@ -12,6 +12,7 @@ public class Sample04 {
 		
 		String apple = "a p p l e";
 		System.out.println(apple.getClass());
+		System.out.println(apple.getBytes());
 	}
 
 }
