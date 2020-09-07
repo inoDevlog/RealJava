@@ -6,9 +6,11 @@ public class Sample05 {
 
 		String str1 = "안녕하세요";
 		String str2 = "안녕하세요";
-		str1 = "안녕히 계세요";
+		str1 = "안녕히     계세요";
 		str2 = "다음에 만나요";
-		System.out.println(str1 + " " + str2.length());
+		System.out.println(str1 + " " + str1.length());
+		System.out.println(str2 + " " + str2.length());
+		
 	}
 
 }
