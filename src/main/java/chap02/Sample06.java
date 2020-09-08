@@ -3,6 +3,7 @@ package chap02;
 public class Sample06 {
 
 	public static void main(String[] args) {
+		
 		int a = 32767;
 		short b = 40;
 
