@@ -2,8 +2,12 @@ package chap02;
 
 import java.util.Random;
 
+/**
+ * @author ino
+ *
+ */
 public class Sample16 {
-
+	
 	public static void main(String[] args) {
 
 		Random random = new Random();
